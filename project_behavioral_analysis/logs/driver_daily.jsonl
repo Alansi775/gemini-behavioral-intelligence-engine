@@ -1,0 +1,17 @@
+{"time":"07:30","action":"wakes_up","detail":"alarm","outcome":"groggy","error":"not_fully_alert"}
+{"time":"07:50","action":"checks_weather","detail":"rainy","outcome":"decides_to_drive","error":"no_extra_time_planned"}
+{"time":"08:00","action":"gets_in_car","detail":"cold_engine","outcome":"starts_driving","error":"no_warm_up"}
+{"time":"08:05","action":"traffic_jam_ahead","detail":"unexpected_congestion","outcome":"stressed","error":"no_buffer_time"}
+{"time":"08:15","action":"checks_phone","detail":"looking_at_map","outcome":"eyes_off_road","error":"distracted_driving"}
+{"time":"08:20","action":"almost_misses_turn","detail":"last_second_maneuver","outcome":"honks_from_other_car","error":"reckless_maneuver"}
+{"time":"08:30","action":"receives_call","detail":"boss_calling","outcome":"answers_phone","error":"driving_with_one_hand"}
+{"time":"08:45","action":"arrives_work_late","detail":"traffic_made_late","outcome":"rushed_to_office","error":"stress"}
+{"time":"17:30","action":"leaves_work","detail":"tired","outcome":"gets_in_car","error":"fatigue"}
+{"time":"17:35","action":"stop_sign","detail":"stops","outcome":"looks_at_text_message","error":"eyes_off_road"}
+{"time":"17:40","action":"light_turns_green","detail":"someone_honks","outcome":"looks_up_startled","error":"reaction_delayed"}
+{"time":"18:00","action":"highway_driving","detail":"monotonous_road","outcome":"thinking_about_work","error":"mind_not_focused"}
+{"time":"18:15","action":"feels_drowsy","detail":"eyelids_heavy","outcome":"tries_to_stay_awake","error":"fighting_fatigue"}
+{"time":"18:30","action":"music_too_loud","detail":"loud_music_playing","outcome":"can't_hear_sirens","error":"poor_situational_awareness"}
+{"time":"18:45","action":"sudden_brake","detail":"car_ahead_brakes_suddenly","outcome":"barely_stops","error":"following_too_close"}
+{"time":"19:00","action":"arrives_home","detail":"safe_but_stressed","outcome":"exhausted","error":"accumulated_stress"}
+{"time":"19:30","action":"plans_tomorrow_commute","detail":"thinks_will_wake_earlier","outcome":"same_plan_as_today","error":"no_actual_change"}

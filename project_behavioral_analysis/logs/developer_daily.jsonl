@@ -1,0 +1,18 @@
+{"time":"08:30","action":"arrives_office","detail":"opens laptop","outcome":"ready_to_work"}
+{"time":"08:32","action":"checks_email","detail":"3 messages from team","outcome":"sees_urgent_flag","error":"context_switch"}
+{"time":"08:35","action":"checks_slack","detail":"2 pending messages","outcome":"acknowledges_but_not_reading","error":"shallow_processing"}
+{"time":"08:38","action":"opens_pull_request","detail":"12 files changed, feature branch","outcome":"reviews_code","error":"skips_local_test"}
+{"time":"08:42","action":"approves_pr","detail":"no test output attached","outcome":"pr_merged","error":"false_verification"}
+{"time":"08:43","action":"deploys_to_staging","detail":"merged code deployed","outcome":"deployment_complete","error":"no_smoke_test"}
+{"time":"08:50","action":"slack_message_received","detail":"QA asks did you test?","outcome":"replies_yes","error":"dishonest_status"}
+{"time":"09:00","action":"standup_meeting","detail":"reports PR complete and tested","outcome":"team_marks_ready","error":"false_claim_escalated"}
+{"time":"09:35","action":"email_from_qa","detail":"staging crashed during test","outcome":"realizes_error","error":"late_detection"}
+{"time":"09:38","action":"checks_logs","detail":"nullpointerexception in payment module","outcome":"identifies_bug_source","error":"cascade_failure"}
+{"time":"09:42","action":"attempts_rollback","detail":"tries to revert PR on staging","outcome":"rollback_partial_success","error":"data_corruption"}
+{"time":"09:48","action":"notifies_manager","detail":"production affected","outcome":"emergency_meeting","error":"team_overhead"}
+{"time":"09:55","action":"creates_hotfix","detail":"fixes uninitialized variable","outcome":"hotfix_branch_ready","error":"no_peer_review"}
+{"time":"10:05","action":"deploys_hotfix","detail":"goes directly to production","outcome":"system_online","error":"skipped_staging_retest"}
+{"time":"10:20","action":"posts_incident_report","detail":"minimal info: null pointer bug","outcome":"status_shared","error":"no_root_cause_analysis"}
+{"time":"10:35","action":"returns_to_work","detail":"opens next PR for review","outcome":"resumes_normal_tasks","error":"pattern_repeats"}
+{"time":"11:10","action":"next_pr_reviewed","detail":"skims changes again","outcome":"approves_without_testing","error":"same_pattern_repeats"}
+{"time":"12:00","action":"lunch_break","detail":"leaves desk","outcome":"no_documentation","error":"learning_opportunity_lost"}

@@ -1,0 +1,19 @@
+{"time":"07:30","action":"alarm_goes_off","detail":"5:30 AM","outcome":"hits_snooze","error":"procrastination_begins"}
+{"time":"07:45","action":"alarm_again","detail":"4th snooze","outcome":"finally_gets_up","error":"late_rush"}
+{"time":"08:00","action":"breakfast","detail":"skipped","outcome":"rushed_to_school","error":"no_fuel"}
+{"time":"08:25","action":"arrives_school","detail":"running","outcome":"barely_on_time","error":"stressed_start"}
+{"time":"08:30","action":"first_class","detail":"math","outcome":"sits_in_back","error":"poor_visibility"}
+{"time":"08:35","action":"takes_notes","detail":"writes randomly","outcome":"messy_notes","error":"poor_documentation"}
+{"time":"09:15","action":"text_from_friend","detail":"asks to copy homework","outcome":"shares_homework","error":"academic_dishonesty"}
+{"time":"09:45","action":"second_class","detail":"english","outcome":"sits_with_friends","error":"distraction"}
+{"time":"10:00","action":"talks_during_class","detail":"getting_louder","outcome":"teacher_warns","error":"ignored_warning"}
+{"time":"10:15","action":"teacher_assigns_homework","detail":"essay due tomorrow","outcome":"thinks_will_do_tonight","error":"false_plan"}
+{"time":"12:00","action":"lunch","detail":"spends_all_break_socializing","outcome":"no_homework_progress","error":"time_misallocation"}
+{"time":"13:00","action":"afternoon_classes","detail":"3 more classes","outcome":"takes_more_notes","error":"still_messy"}
+{"time":"15:30","action":"school_ends","detail":"goes_home","outcome":"thinks_will_do_homework","error":"unrealistic_plan"}
+{"time":"16:00","action":"arrives_home","detail":"video_games_friends_online","outcome":"plays_games","error":"procrastination"}
+{"time":"18:00","action":"dinner_time","detail":"stops_for_dinner","outcome":"eats_while_gaming","error":"distracted_eating"}
+{"time":"19:00","action":"realizes_essay_due","detail":"suddenly_remembers","outcome":"panics","error":"late_realization"}
+{"time":"19:15","action":"starts_essay","detail":"1 hour left till_deadline","outcome":"rushes_writing","error":"quality_suffers"}
+{"time":"20:00","action":"submits_essay","detail":"incomplete, full_of_errors","outcome":"submitted_last_minute","error":"poor_grade_expected"}
+{"time":"20:30","action":"realizes_missed_study","detail":"test_tomorrow_in_math","outcome":"panic","error":"unprepared"}

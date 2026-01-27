@@ -1,0 +1,18 @@
+{"time":"08:45","action":"arrives_office","detail":"coffee, checks emails","outcome":"seated_at_desk"}
+{"time":"08:55","action":"reads_emails","detail":"12 emails, 3 marked urgent","outcome":"replies_to_some","error":"skips_reading_full_context"}
+{"time":"09:10","action":"starts_task_1","detail":"project report due today","outcome":"opens_document","error":"interruption_incoming"}
+{"time":"09:15","action":"colleague_interruption","detail":"asks quick question","outcome":"answers","error":"loses_focus"}
+{"time":"09:20","action":"returns_to_task_1","detail":"tries to continue report","outcome":"restarts_train_of_thought","error":"time_lost"}
+{"time":"09:45","action":"receives_email","detail":"manager: need report NOW","outcome":"increases_urgency","error":"rush_begins"}
+{"time":"09:50","action":"rushes_report","detail":"skips proofreading","outcome":"sends_report","error":"unreviewed_typos"}
+{"time":"10:15","action":"receives_reply","detail":"manager: found 3 typos, unprofessional","outcome":"embarrassed","error":"quality_issue"}
+{"time":"10:30","action":"fixes_typos","detail":"sends_corrected_version","outcome":"manager_OK","error":"reputation_damage"}
+{"time":"11:00","action":"team_meeting","detail":"sitting in meeting","outcome":"checks_phone","error":"not_paying_attention"}
+{"time":"11:45","action":"asks_clarifying_question","detail":"something discussed 20 minutes ago","outcome":"everyone_silent","error":"distraction_caught"}
+{"time":"12:00","action":"lunch_meeting","detail":"business lunch scheduled","outcome":"eats_while_talking","error":"multitasking"}
+{"time":"13:15","action":"afternoon_tasks","detail":"starts new project task","outcome":"working","error":"another_interruption"}
+{"time":"13:25","action":"colleague_asks_favor","detail":"can you do this small thing?","outcome":"says_yes","error":"task_context_switch"}
+{"time":"14:00","action":"realizes_due_date","detail":"original_task_due_tomorrow","outcome":"stress_increases","error":"timeline_pressure"}
+{"time":"14:30","action":"multitasks_two_tasks","detail":"switches between both","outcome":"completes_neither_well","error":"split_attention"}
+{"time":"15:45","action":"emergency_request","detail":"manager needs analysis","outcome":"prioritizes_over_scheduled_tasks","error":"task_queue_chaos"}
+{"time":"17:00","action":"end_of_day","detail":"leaves incomplete tasks","outcome":"tomorrow_will_be_worse","error":"technical_debt_accumulates"}
