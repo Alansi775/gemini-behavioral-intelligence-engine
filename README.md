@@ -188,7 +188,7 @@ https://youtu.be/bfQRqCHOnoc
 
 ---
 
-## 📞 Questions?
+## Questions?
 
 ### "Why Gemini specifically?"
 Reasoning capability + long context window + behavioral understanding built-in.
