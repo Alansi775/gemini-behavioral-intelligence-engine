@@ -167,9 +167,15 @@ Pro tip: If you are the repository owner and want to push this local copy to Git
 
 ## Notes and recommendations
 
-- Keep all repository documentation in English.
-- Keep `project_docs_archive/` for long-form drafts or historical notes; primary docs should be minimal and focused.
-- Before publishing, make sure `.env` does NOT contain secrets committed to the repo.
+ - Keep all repository documentation in English.
+ - Keep `project_docs_archive/` for long-form drafts or historical notes; primary docs should be minimal and focused.
+ - Before publishing, make sure `.env` does NOT contain secrets committed to the repo.
+ 
+## Demo video
+
+Watch the project walkthrough and explanation here:
+
+https://youtu.be/bfQRqCHOnoc
 
 ---
 
